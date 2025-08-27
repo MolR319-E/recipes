@@ -4,4 +4,4 @@
 * Lemon
 * Salt
 * Olive oil
-* Flower
+* A very very special flower growing in Amazon rain forest that eats people. FUN! $_$
