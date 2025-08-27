@@ -6,6 +6,6 @@
 * salt
 ## Instructions
 Mix everything together
-
+Enjoy
 ## Prices
 See `groceries.md` for indicative prices
