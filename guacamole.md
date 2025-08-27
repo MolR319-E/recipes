@@ -1,9 +1,10 @@
-#Guacamole
-##Ingredients
+
+# Guacamole
+## Ingredients
 * avocado
 * lime 
 * salt
-##Instructions
+## Instructions
 An ill-considered change
 
 ## Prices
