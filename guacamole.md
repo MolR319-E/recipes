@@ -5,7 +5,7 @@
 * lime 
 * salt
 ## Instructions
-An ill-considered change
+Mix everything together
 
 ## Prices
 See `groceries.md` for indicative prices
